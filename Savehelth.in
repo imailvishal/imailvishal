@@ -1,0 +1,69 @@
+- 👋 Hi, I’m Vishal Vishwakarma 
+वेबसाइट का नाम: SaveHealth.in
+ "स्वास्थ्य सबका अधिकार है|
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SaveHealth.in - गरीबों के इलाज के लिए</title>
+  <style>
+    body { font-family: Arial, sans-serif; background-color: #f5f5f5; color: #333; }
+    header { background-color: #28a745; color: white; padding: 20px; text-align: center; }
+    nav { background-color: #333; padding: 10px; text-align: center; }
+    nav a { color: white; margin: 0 15px; text-decoration: none; }
+    section { padding: 20px; background: white; margin: 20px auto; max-width: 900px; border-radius: 8px; }
+    footer { background-color: #333; color: white; text-align: center; padding: 10px; }
+    button { padding: 10px 20px; background-color: #28a745; color: white; border: none; cursor: pointer; border-radius: 5px; }
+    button:hover { background-color: #218838; }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>SaveHealth.in</h1>
+  <p>गरीबों के इलाज के लिए एक प्रयास</p>
+</header>
+
+<nav>
+  <a href="#">होम</a>
+  <a href="#">मरीज</a>
+  <a href="#">कैसे मदद करें</a>
+  <a href="#">संपर्क करें</a>
+</nav>
+
+<section>
+  <h2>हमारा उद्देश्य</h2>
+  <p>SaveHealth.in का मकसद उन गरीब मरीजों को मदद देना है जो इलाज के लिए पैसों के मोहताज हैं। आप भी इस नेक काम में जुड़कर किसी की जिंदगी बचा सकते हैं।</p>
+  <button>Donate Now</button>
+</section>
+
+<section>
+  <h2>जरूरतमंद मरीज</h2>
+  <h3>रामू यादव (दिल की सर्जरी)</h3>
+  <p>जरूरत: ₹2,50,000</p>
+  <button>Donate</button>
+
+  <h3>सीमा देवी (किडनी ट्रांसप्लांट)</h3>
+  <p>जरूरत: ₹5,00,000</p>
+  <button>Donate</button>
+</section>
+
+<section>
+  <h2>कैसे मदद करें?</h2>
+  <p>आप ऑनलाइन दान कर सकते हैं। नीचे दिए गए पेमेंट गेटवे से जुड़ें:</p>
+  <ul>
+    <li>UPI ID: savehealth@upi</li>
+    <li>Paytm / Google Pay / PhonePe</li>
+    <li>बैंक अकाउंट डिटेल्स</li>
+  </ul>
+</section>
+
+<footer>
+  <p>© 2025 SaveHealth.in | सभी अधिकार सुरक्षित</p>
+</footer>
+
+</body>
+</html>
+
